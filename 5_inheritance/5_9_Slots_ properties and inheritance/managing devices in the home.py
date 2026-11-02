@@ -1,4 +1,6 @@
 """
+Task: Mixin for access
+
 
 Description:
 You are working on a project for managing household devices. You need to create a class hierarchy for various types of devices and implement methods to control them.
